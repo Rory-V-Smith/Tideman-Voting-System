@@ -25,6 +25,9 @@ vNumber of voters: 5
 
 >Charlie
 
+Completed in part of Harvard's [CS50 - Introduction to Computer Science, 2020](https://cs50.harvard.edu/x/2020/)
+This was pset3: [Tideman](https://cs50.harvard.edu/x/2020/psets/3/tideman/)
+
 ### Background
 The Tideman voting method (also known as “ranked pairs”) is a ranked-choice voting method that’s guaranteed to produce the Condorcet winner (the person who would have won any head-to-head matchup against another candidate) of the election if one exists.
 
